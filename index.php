@@ -13,7 +13,7 @@ the breakdown of prices overall including taxes and shipping.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Jeff & Van's Bakery</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         
     </head>
