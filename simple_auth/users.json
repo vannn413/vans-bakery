@@ -1,0 +1,15 @@
+{
+    "users": [{
+            "fname": "admin",
+            "email": "admin@example.com",
+            "password": "$2y$10$qNL7qBgpkHvkR5900DMz4OrgzqQlIq.0RT1ktldz0OJSIF6ihHYS."
+        }, {
+            "fname": "admin",
+            "email": "admin2@example.com",
+            "password": "$2y$10$CJZz77DxuTi\/4RuEINvG9ez\/gaIGOvc8j\/zu35cDwZx53ErmvZBju"
+        }, {
+            "fname": "Van",
+            "email": "van@example.com",
+            "password": "$2y$10$t\/Go2kq3jBpN1jAc7BHCs.KJ3RZO2yZ7pMvgPl7GC\/tsRLQp4UnLq"
+        }]
+}
