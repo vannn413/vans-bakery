@@ -14,7 +14,7 @@
       // print_r($registration);
       $registration->register_user();
       // thank you for sigining up, continue to invoice
-      echo "<div class='alert alert-primary'>Hey " . ucfirst($fname) . " thanks for signing up</div>";
+      echo "<div class='alert alert-primary'>Hey " . ucfirst($fname) . ", thanks for signing up!</div>";
       include('layout/registration_success_form.php');
       // do not render form
       die();

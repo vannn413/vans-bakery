@@ -8,6 +8,7 @@
     }
     table {
         border: 4px solid black;
+        margin: 1em;
     }
     td {
         border: 1px solid black;
@@ -22,8 +23,11 @@
     background: #FEFEDC;
     height: 30px;
     }
+    
+
     h1 {
         color: white;
+        margin: 1em;
     }
     
     label {
